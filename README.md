@@ -60,5 +60,6 @@ The balanced accuracy scores and classification reports of all six machine learn
 
 ## Summary
 
-There is a summary of the results (2 pt)
-There is a recommendation on which model to use, or there is no recommendation with a justification (3 pt)
+All six models had a 99% precision score. Overall, the ensemble learners provided higher balanced accuracy and recall scores than the over/under sampling models. The undersampling and combination models provided the lowest balancd accuracy and recall scores.
+
+Of the six models, the Easy Ensemble AdaBoost Classifier would be recommended due to the high balanced accuracy score (92%) and more even precision (99%) and recall (94%) scores.
